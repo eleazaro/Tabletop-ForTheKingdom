@@ -1,4 +1,3 @@
-82% de armazenamento usado … Você pode liberar espaço ou comprar mais armazenamento para o Drive, o Gmail e o Google Fotos.
 BAG_GUID = Global.getVar('BAG_GUID')
 BAG_MONSTER_GUID = Global.getVar('BAG_MONSTER_GUID')
 BAG_CHEST_GUID = Global.getVar('BAG_CHEST_GUID')
